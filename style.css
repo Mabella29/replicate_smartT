@@ -29,6 +29,7 @@ header {
     color: aliceblue;
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
+    line-height: 0.8;
 }
 
 .logo b {
